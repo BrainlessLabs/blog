@@ -1,0 +1,22 @@
+title = "BrainlessLabs"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "BrainlessLabs"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "Home"
+    url  = "https://brainlesslabs.com"
+[[menu.main]]
+    name = "Articles"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/BrainlessLabs"
