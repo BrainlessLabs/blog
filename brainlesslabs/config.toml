@@ -3,7 +3,7 @@ author = "David Hamp-Gonsalves"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
-
+baseurl = "https://brainlesslabs.com"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
